@@ -1,0 +1,67 @@
+/* ---Global Settings*/
+* {
+  margin: 0;
+  padding: 0;
+  boxing-size: border-box;
+  background-color: #92a5bb; /*---Cadet Grey---*/
+}
+/*---Title Settings*/
+h1, h2, h3 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+  display: block;
+
+}
+/*---Full Page Settings---*/
+.home {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+  border: 10px solid #5D6063; /*---Dark Grey---*/
+  text-align: left;
+}
+/*---Paragraph Settings---*/
+p {
+  margin:20px;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+  font-style:Tahoma, Helvetica, sans-serif;
+}
+/*---Image Settings---*/
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*---Buttons---*/
+.button {
+  display: block;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 10px;
+  width: 150px;
+  margin: 20px 20px;
+  float:left;
+}
+.button-group {
+  padding:20px 20px 20px 20px;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+}
+.images-breed {
+  padding:50px;
+  margin-left:50px;
+  margin-right:50px;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+}
+.images-toys {
+  padding: 20px;
+  background-color: #DDE0E3;  /*---Light Grey---*/
+}
